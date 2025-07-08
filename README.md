@@ -56,7 +56,9 @@ App will run at [http://localhost:3000](http://localhost:3000)
 ---
 
 ## 🔗 Citation Linking
-Citation text includes a clickable hyperlink to the PDF file. On click, it opens the PDF in a new browser tab and simulates scrolling/highlighting (mock only).
+Each citation displayed under the answer includes a clickable hyperlink to the relevant PDF document.  
+- Clicking the citation opens the PDF in a new browser tab.  
+- Scroll-to-paragraph or highlighting is simulated (mock only), as specified in the assignment requirements.
 
 ---
 
